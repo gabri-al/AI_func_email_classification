@@ -1,0 +1,101 @@
+RowNr;CustomerID;Sender;Email_body;True_Label
+1;IDA1B2C3D4;alice.smith@veridex.com;Please take me off your email marketing list.;Remove
+2;IDE5F6G7H8;john.doe@novaluxe.net;Please take me off your mailing list.;Remove
+3;IDI9J0K1L2;emily.jones@crestwell.org;Is it possible to pick up my order from a physical store instead of delivery?;Keep
+4;IDM3N4O5P6;michael.brown@solvanta.io;Please unsubscribe me from your newsletter immediately.;Remove
+5;IDQ7R8S9T0;sarah.wilson@brighthall.co;Can you provide details on your environmental sustainability practices?;Keep
+6;IDU1V2W3X4;david.lee@altrioncorp.com;I want to be removed from your email advertising list.;Remove
+7;IDY5Z6A7B8;laura.kim@luminexis.net;Please stop sending me any marketing or promotional emails.;Remove
+8;IDC9D0E1F2;robert.taylor@cendara.org;Please stop sending promotional emails to my inbox.;Remove
+9;IDG3H4I5J6;linda.moore@ventara.io;I want to update the payment method for my recent purchase.;Keep
+10;IDK7L8M9N0;james.white@novaris.co;"I noticed an incorrect charge on my invoice; can you assist?";Keep
+11;IDP1Q2R3S4;patricia.clark@elentrix.com;Is there a way to save items in my cart for later purchase?;Keep
+12;IDT5U6V7W8;charles.harris@orbelis.net;I would like to know if the product I ordered is eligible for free shipping.;Keep
+13;IDY9Z0A1B2;barbara.lewis@trionexis.org;"I received the wrong item; how can I return it and get the correct one?";Keep
+14;IDE3F4G5H6;steven.walker@quantaris.io;"I'm interested in bulk purchasing; do you offer discounts for large orders?";Keep
+15;IDJ7K8L9M0;jessica.young@veltrix.co;Can you provide information on your loyalty program benefits?;Keep
+16;IDN1O2P3Q4;brian.king@solvantis.com;Please remove me from your marketing email list.;Remove
+17;IDU5V6W7X8;susan.scott@altrivia.net;Is there a warranty extension available for smartphones?;Keep
+18;IDZ9A0B1C2;kevin.adams@noventis.org;I would like to know the estimated delivery date for my package.;Keep
+19;IDE3D4E5F6;karen.baker@ventaris.co;Please stop sending me newsletters and promotional offers.;Remove
+20;IDJ7K8L9M0;george.mitchell@crestalis.io;What is the warranty period for your kitchen appliances?;Keep
+21;IDN1O2P3Q4;nancy.campbell@brightex.net;Kindly stop sending marketing emails to this address.;Remove
+22;IDU5V6W7X8;edward.evans@veridion.com;I no longer consent to receive marketing emails from you.;Remove
+23;IDZ9A0B1C2;donna.roberts@novarisys.org;I need help applying a discount code I received via email.;Keep
+24;IDE3F4G5H6;paul.turner@elentra.co;"I accidentally ordered the wrong size; can I exchange it?";Keep
+25;IDJ7K8L9M0;lisa.phillips@altrionix.com;Please unsubscribe me from your email promotions.;Remove
+26;IDN1O2P3Q4;mark.parker@ventronis.net;How do I register my product for warranty coverage?;Keep
+27;IDU5V6W7X8;betty.collins@noventrix.org;How do I return an item purchased as a gift?;Keep
+28;IDZ9A0B1C2;stephanie.stewart@solvantis.io;Kindly unsubscribe me from your promotional mailing list.;Remove
+29;IDE3D4E5F6;eric.morris@cendaris.co;How long does it take to restock sold-out items?;Keep
+30;IDJ7K8L9M0;amy.murphy@veltrionix.net;How do I track my order if I didn't receive a tracking number?;Keep
+31;IDN1O2P3Q4;frank.rivera@orbelisys.com;Can you provide the user manual for the blender I bought?;Keep
+32;IDU5V6W7X8;deborah.cook@trionexis.org;What is your return policy for perishable goods?;Keep
+33;IDZ9A0B1C2;ryan.morgan@quantaris.co;Can I add a gift receipt to my order?;Keep
+34;IDE3F4G5H6;kathy.bell@luminexis.net;I want to update my contact information linked to my account.;Keep
+35;IDJ7K8L9M0;gregory.bailey@ventara.io;I no longer want to be registered to your marketing emails.;Remove
+36;IDN1O2P3Q4;sharon.cooper@novaluxe.com;Stop sending marketing emails to this email address.;Remove
+37;IDU5V6W7X8;jason.richards@veridex.net;What payment methods do you accept on your website?;Keep
+38;IDZ9A0B1C2;laura.kelly@altrivia.org;Are your products covered by international warranty?;Keep
+39;IDE3D4E5F6;brandon.hughes@crestwell.co;Can you tell me if the headphones I ordered are compatible with my phone model?;Keep
+40;IDJ7K8L9M0;rachel.price@solvanta.net;I am opting out of your email marketing campaigns.;Remove
+41;IDN1O2P3Q4;stephen.bryant@brighthall.io;Kindly stop sending me commercial emails.;Remove
+42;IDU5V6W7X8;megan.watson@noventisys.com;I'm writing to request to be removed from your mailing list.;Remove
+43;IDZ9A0B1C2;scott.brooks@ventronis.co;How do I apply a coupon code during checkout?;Keep
+44;IDE3F4G5H6;lauren.kim@elentrix.net;What are your customer service hours?;Keep
+45;IDJ7K8L9M0;greg.henderson@novaris.org;Could you explain the warranty terms for the laptop I purchased?;Keep
+46;IDN1O2P3Q4;erin.ross@altrioncorp.io;How long does it take to process a refund after returning a product?;Keep
+47;IDU5V6W7X8;tyler.morris@cendara.net;Are there any restrictions on shipping to my country?;Keep
+48;IDZ9A0B1C2;victoria.cook@veltrix.co;Unsubscribe me from all your marketing emails, please.;Remove
+49;IDE3D4E5F6;adam.morgan@orbelis.com;I want to update my billing address for future purchases.;Keep
+50;IDJ1K2L3M4;natalie.green@veridex.com;Can you recommend accessories compatible with the camera I bought?;Keep
+51;IDN5O6P7Q8;brian.white@novaluxe.net;Is it possible to expedite the shipping for my order?;Keep
+52;IDR9S0T1U2;samantha.lee@crestwell.org;What is your policy on exchanges for clothing items?;Keep
+53;IDV3W4X5Y6;joshua.moore@solvanta.io;Please delete my contact from your marketing list.;Remove
+54;IDZ7A8B9C0;olivia.martin@brighthall.co;I want to stop receiving marketing emails from your company.;Remove
+55;IDD1E2F3G4;ethan.thomas@altrioncorp.com;Do you offer gift wrapping services for online orders?;Keep
+56;IDH5I6J7K8;mia.walker@luminexis.net;I do not wish to receive any more marketing emails from your company.;Remove
+57;IDL9M0N1O2;noah.hall@cendara.org;I want to unsubscribe from all your marketing communications.;Remove
+58;IDR3S4T5U6;isabella.clark@ventara.io;Are there any upcoming sales events I should be aware of?;Keep
+59;IDW7X8Y9Z0;lucas.lewis@novaris.co;Stop sending me promotional emails immediately.;Remove
+60;IDE1F2G3H4;amelia.young@elentrix.com;What is the process for reporting a defective product?;Keep
+61;IDJ5K6L7M8;mason.king@orbelis.net;I request that you stop sending me promotional emails.;Remove
+62;IDP9Q0R1S2;evelyn.scott@trionexis.org;I do not want to receive any more advertising emails.;Remove
+63;IDV3W4X5Y6;logan.adams@quantaris.io;Remove my email address from your advertising emails immediately.;Remove
+64;IDZ7A8B9C0;zoe.baker@veltrix.co;Please take me off your promotional email list.;Remove
+65;IDD1E2F3G4;aiden.mitchell@solvantis.com;Can you provide more information about the materials used in your products?;Keep
+66;IDH5I6J7K8;chloe.campbell@altrivia.net;Can you confirm if my payment went through successfully?;Keep
+67;IDL9M0N1O2;jackson.evans@noventis.org;I'm requesting to unsubscribe from your promotional emails.;Remove
+68;IDR3S4T5U6;grace.roberts@ventaris.co;I want to opt out of your email marketing list.;Remove
+69;IDW7X8Y9Z0;sebastian.turner@crestalis.io;Please remove me from your mailing list immediately.;Remove
+70;IDE1F2G3H4;lily.phillips@brightex.net;Please stop sending commercial emails to this address.;Remove
+71;IDJ5K6L7M8;eli.collins@veridion.com;I wish to opt out of all future marketing communications.;Remove
+72;IDP9Q0R1S2;hannah.walker@novarisys.org;Can you provide details on your privacy policy regarding customer data?;Keep
+73;IDV3W4X5Y6;caleb.morgan@elentra.co;I want to change the shipping address for my current order.;Keep
+74;IDZ7A8B9C0;victoria.bell@altrionix.com;Please unsubscribe me from your commercial email list.;Remove
+75;IDD1E2F3G4;owen.bailey@ventronis.net;I want to be removed from your email marketing list.;Remove
+76;IDH5I6J7K8;scarlett.stewart@noventrix.org;I'm requesting to be removed from your email distribution list.;Remove
+77;IDL9M0N1O2;luke.morris@solvantis.io;Please unsubscribe me from your marketing emails.;Remove
+78;IDR3S4T5U6;zoey.cook@cendaris.co;Please delete my email from your marketing contacts.;Remove
+79;IDW7X8Y9Z0;gabriel.murphy@veltrionix.net;I am requesting to stop all marketing emails from your company.;Remove
+80;IDE1F2G3H4;ella.rivera@orbelisys.com;Can you help me reset my account password?;Keep
+81;IDJ5K6L7M8;nathan.cook@trionexis.org;Can you please provide an update on the status of my recent order?;Keep
+82;IDP9Q0R1S2;madison.morgan@quantaris.co;I'm writing to unsubscribe from your commercial emails.;Remove
+83;IDV3W4X5Y6;isaac.bell@luminexis.net;Is it possible to combine multiple orders into one shipment?;Keep
+84;IDZ7A8B9C0;aria.bailey@ventara.io;"I need assistance tracking my shipment; the tracking number isn't updating.";Keep
+85;IDD1E2F3G4;calvin.cooper@novaluxe.com;I no longer wish to receive newsletters from your company.;Remove
+86;IDH5I6J7K8;claire.richards@veridex.net;I'm requesting that you stop sending marketing emails to me.;Remove
+87;IDL9M0N1O2;henry.kelly@altrivia.org;Remove me from your newsletter subscription list.;Remove
+88;IDR3S4T5U6;ellie.hughes@crestwell.co;I no longer want to receive your newsletters.;Remove
+89;IDW7X8Y9Z0;dominic.price@solvanta.net;Please cease all marketing emails to this address.;Remove
+90;IDE1F2G3H4;natalia.bryant@brighthall.io;How do I initiate a refund for a damaged product I received?;Keep
+91;IDJ5K6L7M8;jack.watson@nov,entisys.com;Stop sending me any further commercial emails.;Remove
+92;IDP9Q0R1S2;claire.brooks@ventronis.co;Unsubscribe me from your email list, please.;Remove
+93;IDV3W4X5Y6;aaron.kim@elentrix.net;Kindly remove my email from your promotional mailing list.;Remove
+94;IDZ7A8B9C0;madeline.henderson@novaris.org;What are the steps to cancel an order before it ships?;Keep
+95;IDD1E2F3G4;joseph.ross@altrioncorp.io;Please remove my email address from your marketing communications.;Remove
+96;IDH5I6J7K8;natalie.morris@cendara.net;Kindly remove my email address from your marketing database.;Remove
+97;IDL9M0N1O2;isaiah.cook@veltrix.co;How do I delete my account and personal data from your system?;Keep
+98;IDR3S4T5U6;claire.morgan@orbelis.com;How do I unsubscribe from your promotional newsletters?;Keep
+99;IDW7X8Y9Z0;ethan.green@veridex.com;Remove my contact information from your promotional emails.;Remove
+100;IDE1F2G3H4;sophia.white@novaluxe.net;Are there any ongoing promotions or discounts on your website?;Keep
